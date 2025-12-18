@@ -30,7 +30,7 @@
 
 - **Text:** Gemini/Gemini Pro, ChatGPT, GTP-OSS, Qwen 2.5/3 (в том числе VL модели), Deepseek.
 - **Image:** Nano Banana, DALL-E
-- **Video** Sora, Veo 3/3.1
+- **Video:** Sora, Veo 3/3.1
 
 ## 📂 Структура портфолио
 
